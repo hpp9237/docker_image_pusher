@@ -1,1 +1,2 @@
-open-webui/open-webui:v0.6.5
+#open-webui/open-webui:v0.6.5
+xprobe/xinference:v1.5.0
