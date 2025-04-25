@@ -1,1 +1,1 @@
-bitnami/prometheus:2.55.1
+elestio/uptime-kuma:2.0.0-beta.2
