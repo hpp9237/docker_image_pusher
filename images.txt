@@ -1,2 +1,1 @@
-dyrnq/open-webui:v0.6.3
-#xprobe/xinference:v1.5.0
+docker pull moelin/1panel:v1.10.29-lts
