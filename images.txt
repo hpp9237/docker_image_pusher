@@ -1,1 +1,1 @@
-moelin/1panel:v1.10.29-lts
+bitnami/prometheus:2.55.1
