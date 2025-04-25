@@ -1,1 +1,1 @@
-docker pull moelin/1panel:v1.10.29-lts
+moelin/1panel:v1.10.29-lts
