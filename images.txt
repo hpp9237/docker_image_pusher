@@ -1,1 +1,1 @@
-ubuntu:22.04
+paketobuildpacks/miniconda:0.10
