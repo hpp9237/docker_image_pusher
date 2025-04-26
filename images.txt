@@ -1,1 +1,1 @@
-python:3.10
+ubuntu:22.04
