@@ -1,1 +1,1 @@
-paketobuildpacks/miniconda:0.10
+approachingai/ktransformers:v0.2.4post1-AVX512
