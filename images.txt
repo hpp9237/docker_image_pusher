@@ -1,1 +1,1 @@
-dyrnq/open-webui:0.6.3
+teddysun/v2ray:5.31.0
