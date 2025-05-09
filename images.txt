@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.4.6.post2-cu124
+dyrnq/open-webui:0.6.3
