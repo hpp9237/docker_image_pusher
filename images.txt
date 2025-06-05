@@ -1,1 +1,1 @@
-infiniflow/ragflow:v0.19.x
+xprobe/xinference:v1.6.1
