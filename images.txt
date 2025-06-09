@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.9.0.1
+approachingai/ktransformers:v0.3.1-AVX512
