@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.4.9.post3-cu126
+alexsuntop/mineru-sglang:2.1.6
