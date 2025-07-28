@@ -1,1 +1,1 @@
-alexsuntop/mineru-sglang:2.1.6
+jianjungki/mineru:latest
