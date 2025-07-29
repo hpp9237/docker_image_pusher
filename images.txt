@@ -1,1 +1,1 @@
-quincyqiang/mineru:0.3-models
+lmsysorg/sglang:v0.4.7.post1-cu124
