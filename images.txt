@@ -1,1 +1,1 @@
-cym1102/nginxwebui:4.3.7
+neosun/deepseek-ocr:v3.6
