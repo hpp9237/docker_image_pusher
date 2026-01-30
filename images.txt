@@ -1,1 +1,1 @@
-neosun/deepseek-ocr:v3.6
+vllm/vllm-openai:v0.11.0
