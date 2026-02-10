@@ -1,1 +1,1 @@
-library/node:22-bookworm
+1186258278/openclaw-zh:latest
