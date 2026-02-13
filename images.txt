@@ -1,1 +1,1 @@
-1186258278/openclaw-zh:latest
+cym1102/nginxwebui:4.3.8
