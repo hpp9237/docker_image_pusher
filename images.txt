@@ -1,1 +1,1 @@
-cym1102/nginxwebui:4.3.8
+1186258278/openclaw-zh:2026.2.21-zh.3
