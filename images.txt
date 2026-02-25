@@ -1,1 +1,1 @@
-1186258278/openclaw-zh:2026.2.21-zh.3
+rocm/pytorch:rocm7.2_ubuntu24.04_py3.12_pytorch_release_2.9.1
