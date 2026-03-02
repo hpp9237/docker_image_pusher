@@ -1,1 +1,1 @@
-rocm/pytorch:rocm7.2_ubuntu24.04_py3.12_pytorch_release_2.9.1
+xprobe/xinference:v2.2.0
