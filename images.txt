@@ -1,1 +1,1 @@
-jonnyan404/verysync:v2.21.3
+agentscope/copaw:v0.0.4
