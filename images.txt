@@ -1,1 +1,1 @@
-xprobe/xinference:v2.3.0
+agentscope/copaw:v1.0.0.post2
