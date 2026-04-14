@@ -1,1 +1,1 @@
-agentscope/copaw:v1.0.0.post2
+vllm/vllm-openai:v0.19.0
